@@ -1,0 +1,36 @@
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.dll
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.pdb
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\bin\Debug\DAO.dll
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\bin\Debug\DAO.pdb
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\bin\Debug\DTO.dll
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\bin\Debug\DTO.pdb
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.dll
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\bin\Debug\DAO.dll
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\bin\Debug\DAO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\bin\Debug\DTO.dll
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\bin\Debug\DTO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.dll
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\DAO\obj\Debug\DAO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\bin\Debug\DAO.dll
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\bin\Debug\DAO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\bin\Debug\DTO.dll
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\bin\Debug\DTO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\obj\Debug\DAO.dll
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\DAO\obj\Debug\DAO.pdb

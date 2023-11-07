@@ -1,0 +1,44 @@
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\bin\Debug\BUS.dll
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.dll
+C:\Users\admin\Desktop\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.pdb
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\BUS.dll
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\BUS.pdb
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\DAO.dll
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\DTO.dll
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\DAO.pdb
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\DTO.pdb
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.dll
+D:\HocKy_VI\LapTrinhQuanLy\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.pdb
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\BUS.dll
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\BUS.pdb
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\DAO.dll
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\DTO.dll
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\DAO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\bin\Debug\DTO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.dll
+D:\CNTT\Nam3\Lập trình quản lý\DoAnCaNhan\QuanLyCuaHangTivi\BUS\obj\Debug\BUS.pdb
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\bin\Debug\BUS.dll
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\bin\Debug\BUS.pdb
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\bin\Debug\DAO.dll
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\bin\Debug\DTO.dll
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\bin\Debug\DAO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\bin\Debug\DTO.pdb
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\obj\Debug\BUS.dll
+D:\CNTT\Nam3\Lập trình quản lý\QLCuaHangLaptop\BUS\obj\Debug\BUS.pdb
